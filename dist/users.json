@@ -1,0 +1,40 @@
+{
+    "https://www.facebook.com/AfricainEtFort/": {
+        "false": [
+            {
+                "https://www.facebook.com/900310270123133/posts/pfbid02B9mZdC7iqa9WyKzShSVjEiS4qRH8YgEdoT36r2ePcp5t1MJHXMw8XJvMdVhFrr2el/": true
+            },
+            {
+                "https://www.facebook.com/900310270123133/posts/pfbid02bbXyCE5vw3PpSAfwfsT1RnhEC2WYfULeQfGKJ3MK9ami8JHRh5MRitqPMLiPxQ5ql/": true
+            },
+            {
+                "https://www.facebook.com/900310270123133/posts/pfbid0Q4WobuUjAzpYPy31S9V15GPcDEko3ex6WvpZcoRSe3n936Htg4saSCBWVEL1Cce9l/": true
+            },
+            {
+                "https://www.facebook.com/900310270123133/posts/pfbid0Az3t2NqweShZuBsn88EA4ys4PMLueVNtusvjJ6cRphEtfce7SiTWS3JUmueDu7Ztl/": true
+            },
+            {
+                "https://www.facebook.com/900310270123133/posts/pfbid0ixz2xh1z1581XHpnZvTqXjUszSeqW5ej1usiexLnSX5FKzv8NDVbkjQZbs732us7l/": true
+            }
+        ]
+    },
+    "asd": {
+        "false": []
+    },
+    "bsd": {
+        "false": []
+    },
+    "User 1 (url)": {
+        "true": [
+            {
+                "Post 1 (url)": false
+            },
+            {
+                "Post 2 (url)": false
+            }
+        ]
+    },
+    " User 2 (url)": {
+        "true": []
+    }
+}
